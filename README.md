@@ -1,6 +1,8 @@
 # py-kalman
 Kalman Filter to smoothen pose estimation on videos.
 
+![](kalmanfilter.gif)
+
 ## Resources
 - [Link to videos and tracking points(csv) to play with the scripts](https://osf.io/x85nz/)
 
